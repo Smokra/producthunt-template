@@ -28,6 +28,11 @@ body {
   margin: 0;
 }
 
+.picture {
+  overflow: hidden;
+  max-height: 100px;
+}
+
 .post:hover {
   cursor: pointer;
   background-color: #f9f9f9;
